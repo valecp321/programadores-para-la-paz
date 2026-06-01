@@ -1,0 +1,8 @@
+Prueba 1 - http://localhost:3000
+Al acceder a esta ruta el servidor responde con el mensaje "Servidor activo", confirmando que el servidor está funcionando correctamente.
+
+Prueba 2 - http://localhost:3000/saludo
+Al acceder a esta ruta el servidor responde con el mensaje "Hola comunidad", mostrando que la ruta /saludo está configurada correctamente.
+
+Prueba 3 - http://localhost:3000/mensaje/juan
+Al acceder a esta ruta el servidor responde con el mensaje "Hola juan", demostrando que el parámetro :nombre funciona correctamente y el servidor puede recibir valores dinámicos desde la URL.
