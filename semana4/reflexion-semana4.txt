@@ -1,0 +1,8 @@
+Que las comunidades e iniciativas ciudadanas puedan construir sus propias herramientas tecnológicas es fundamental para su autonomía y desarrollo.
+Node.js es una tecnología abierta y gratuita que permite crear servidores y aplicaciones web sin depender de empresas privadas ni pagar licencias costosas.
+Esto democratiza el acceso a la tecnología y permite que cualquier persona con conocimientos básicos pueda desarrollar soluciones adaptadas a su propia realidad.
+Una comunidad que construye sus propias herramientas tiene mayor control sobre sus datos y procesos.
+Además, el uso de tecnologías abiertas fomenta el aprendizaje colectivo y el trabajo colaborativo.
+En contextos de comunidades vulnerables o con pocos recursos, contar con herramientas propias puede marcar una diferencia real en su organización y participación. 
+Node.js en particular es muy accesible porque usa JavaScript, un lenguaje ampliamente conocido. 
+En resumen, tecnologías como Node.js abren puertas para que la innovación no sea exclusiva de grandes empresas sino de toda la sociedad.
