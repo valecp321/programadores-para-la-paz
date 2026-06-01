@@ -1,0 +1,7 @@
+Mantener un registro de cambios en los proyectos de software es fundamental porque permite conocer exactamente qué se modificó, cuándo y por qué.
+Git actúa como una memoria del proyecto, guardando cada versión y permitiendo volver a un estado anterior si algo sale mal.
+Esto es especialmente útil cuando se trabaja en equipo, ya que varios desarrolladores pueden hacer cambios al mismo tiempo sin perder el trabajo de los demás. 
+La trazabilidad que ofrece Git también facilita detectar errores, ya que se puede identificar en qué momento se introdujo un problema. 
+Además, tener un historial ordenado de cambios hace que el proyecto sea más transparente y fácil de entender para cualquier persona que se una al equipo.
+Sin control de versiones, sería muy difícil coordinar el trabajo y mantener la integridad del código.
+En resumen, Git no solo organiza el trabajo técnico sino que también fomenta la responsabilidad y la colaboración entre desarrolladores.
