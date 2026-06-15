@@ -1,0 +1,29 @@
+Al enviar una petición POST a http://localhost:3000/reportes con el siguiente JSON:
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+El servidor responde confirmando que el reporte fue registrado:
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+
+Al consultar luego la ruta GET http://localhost:3000/reportes el servidor devuelve la lista completa de reportes registrados en memoria:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Esto demuestra que el array reportes almacena correctamente los datos enviados y los devuelve cuando se consultan. Si se detiene el servidor y se vuelve a iniciar, la lista queda vacía porque los datos se guardan en memoria y no en una base de datos.
