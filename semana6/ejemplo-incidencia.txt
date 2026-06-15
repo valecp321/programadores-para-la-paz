@@ -1,0 +1,16 @@
+Ejemplo de JSON que podría enviar un ciudadano para reportar una incidencia:
+
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
+
+Al enviar esta petición POST a http://localhost:3000/incidencia el servidor responde:
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
+
+Este ejemplo muestra cómo una plataforma comunitaria podría recibir reportes estructurados de los ciudadanos para registrar y gestionar problemas del barrio o la comunidad de forma organizada.
