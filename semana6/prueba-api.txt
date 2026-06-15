@@ -1,0 +1,16 @@
+Al enviar una petición POST a http://localhost:3000/registro con el siguiente JSON:
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor responde con el siguiente resultado:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Esto indica que el servidor recibió correctamente los datos enviados en el cuerpo de la petición mediante req.body, los procesó y los devolvió estructurados en formato JSON confirmando que la ruta /registro funciona correctamente.
