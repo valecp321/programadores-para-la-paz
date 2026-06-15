@@ -1,0 +1,7 @@
+Que las plataformas tecnológicas puedan recibir información de los ciudadanos de forma estructurada es fundamental para construir servicios públicos más eficientes y transparentes.
+Cuando un ciudadano puede enviar un reporte mediante un formulario o una API, esa información llega organizada y lista para ser procesada, lo que reduce errores y malentendidos. 
+A diferencia de los reportes informales por llamada telefónica o mensajes de texto, los datos estructurados permiten clasificar, almacenar y analizar la información de manera sistemática.
+Esto es especialmente importante en comunidades donde los problemas como daños en infraestructura, fallas en servicios públicos o situaciones de riesgo necesitan atención rápida y organizada.
+Además, recibir datos en formato JSON permite que diferentes sistemas se comuniquen entre sí, facilitando que un reporte ciudadano llegue simultáneamente a varias entidades responsables.
+La estructuración de la información también genera trazabilidad, es decir, permite hacer seguimiento a cada reporte y verificar si fue atendido.
+En resumen, las plataformas que reciben información estructurada de los ciudadanos no solo mejoran la gestión institucional sino que también fortalecen la participación, la confianza y la relación entre la comunidad y quienes tienen la responsabilidad de atender sus necesidades.
