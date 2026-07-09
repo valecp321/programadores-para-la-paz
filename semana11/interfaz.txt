@@ -1,0 +1,9 @@
+La interfaz de la plataforma sería sencilla y fácil de usar para cualquier ciudadano.
+
+Tendría una sección principal con la lista de reportes o causas disponibles, donde cualquier usuario autenticado podría verlos y hacer seguimiento.
+
+También tendría un formulario para crear un nuevo reporte con campos como título, descripción, tipo de incidencia y fecha.
+
+Cada reporte tendría un botón de apoyo y un contador que muestre cuántas personas lo han respaldado, para visibilizar las necesidades más urgentes de la comunidad.
+
+La interfaz no mostraría información privada de los usuarios como nombres completos, correos o documentos, garantizando así la privacidad de quienes participan en la plataforma.
