@@ -1,0 +1,7 @@
+Una plataforma tecnológica que promueve participación ciudadana necesita base de datos, autenticación y protección de información porque sin estos elementos no puede funcionar de forma segura ni confiable. 
+La base de datos permite guardar los reportes, causas y registros de forma permanente y organizada, evitando que la información se pierda y facilitando el seguimiento de cada caso. 
+Sin ella, la plataforma no tendría memoria y cada vez que se reiniciara el servidor los datos desaparecerían.
+La autenticación es igualmente importante porque garantiza que solo las personas autorizadas puedan acceder a ciertas funciones.
+Sin control de acceso cualquier persona podría modificar o eliminar información importante, lo que pondría en riesgo la integridad de los datos y la confianza de la comunidad. 
+Finalmente, proteger la información sensible es un deber ético y de seguridad, porque los ciudadanos que usan la plataforma confían en que sus datos no serán expuestos ni usados de forma indebida. 
+Una plataforma que combina estos tres elementos es más confiable, más segura y realmente útil para fortalecer la participación ciudadana.
