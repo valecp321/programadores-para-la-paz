@@ -1,0 +1,11 @@
+Historias de usuario ordenadas de mayor a menor prioridad:
+
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso y hacer seguimiento.
+
+2. Como coordinador quiero recibir una alerta en Telegram cuando llegue un nuevo reporte para revisarlo a tiempo.
+
+3. Como miembro del equipo quiero consultar los reportes registrados para hacer seguimiento al estado de cada caso.
+
+4. Como administrador quiero controlar quién puede ver y modificar la información para proteger los datos de la comunidad.
+
+5. Como ciudadano quiero recibir una confirmación cuando mi reporte sea recibido para saber que fue registrado correctamente.
