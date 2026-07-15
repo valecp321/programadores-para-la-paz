@@ -1,0 +1,7 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta muy poderosa para fortalecer la participación ciudadana cuando se usa con responsabilidad y criterio.
+Antes veía la programación como algo muy lejano y técnico, pero ahora entiendo que construir una plataforma comunitaria no solo requiere código sino también organización, seguridad, ética y claridad sobre para qué y para quién se está construyendo.
+
+Uno de los aprendizajes más importantes fue entender que los datos de las personas deben protegerse siempre, guardando solo lo necesario y controlando quién puede acceder a qué información. 
+También aprendí que herramientas como Git, Node.js y n8n pueden combinarse para crear soluciones reales que ayuden a comunidades a organizarse, reportar problemas y exigir sus derechos de forma estructurada.
+
+Finalmente, me llevo la idea de que una solución tecnológica con impacto social no depende solo de que funcione bien técnicamente, sino de que sea útil, accesible y confiable para las personas que la van a usar. Eso es lo que convierte la tecnología en una herramienta de cambio real.
