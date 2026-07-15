@@ -1,0 +1,22 @@
+Entidad: Causa
+
+Campos:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Guardar las causas comunitarias creadas por los ciudadanos. Cada causa tiene un título, una descripción y la fecha en que fue registrada, lo que permite hacer seguimiento y generar el documento formal.
+
+
+Entidad: Apoyo
+
+Campos:
+- id
+- causa_id
+- nombre
+- fecha
+
+Propósito:
+Registrar los apoyos que recibe cada causa. El campo causa_id conecta cada apoyo con su causa correspondiente, permitiendo contar cuántas personas han respaldado cada petición.
